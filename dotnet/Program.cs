@@ -6,9 +6,12 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Car car1 = new Car("red", "Mazda");
-            Console.WriteLine(car1.color);
+            Console.WriteLine(Part1.ConvertCelciusToFahrenheit());
+            Part1.Ascii();
+            Part1.Area();
+            Part1.DateFormat();
+            Part1.SwapNumbers();
         }
-        
+
     }
 }

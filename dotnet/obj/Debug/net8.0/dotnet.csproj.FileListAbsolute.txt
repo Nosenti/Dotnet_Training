@@ -12,3 +12,4 @@ C:\Users\inno1\Desktop\Programming\Playground\dotnet\obj\Debug\net8.0\refint\dot
 C:\Users\inno1\Desktop\Programming\Playground\dotnet\obj\Debug\net8.0\dotnet.pdb
 C:\Users\inno1\Desktop\Programming\Playground\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
 C:\Users\inno1\Desktop\Programming\Playground\dotnet\obj\Debug\net8.0\ref\dotnet.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\obj\Debug\net8.0\dotnet.sourcelink.json
