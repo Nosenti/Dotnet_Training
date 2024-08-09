@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Part2.PasswordMatch();
+            Part3.SortArray();
 
         }
 
