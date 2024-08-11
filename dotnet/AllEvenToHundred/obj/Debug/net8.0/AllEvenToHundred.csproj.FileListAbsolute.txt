@@ -1,0 +1,15 @@
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\bin\Debug\net8.0\AllEvenToHundred.exe
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\bin\Debug\net8.0\AllEvenToHundred.deps.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\bin\Debug\net8.0\AllEvenToHundred.runtimeconfig.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\bin\Debug\net8.0\AllEvenToHundred.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\bin\Debug\net8.0\AllEvenToHundred.pdb
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.AssemblyInfoInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.AssemblyInfo.cs
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.csproj.CoreCompileInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.sourcelink.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\refint\AllEvenToHundred.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.pdb
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\AllEvenToHundred.genruntimeconfig.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\AllEvenToHundred\obj\Debug\net8.0\ref\AllEvenToHundred.dll

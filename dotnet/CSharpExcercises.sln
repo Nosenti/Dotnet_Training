@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversion", "TemperatureConversion\TemperatureConversion.csproj", "{9E5F8C90-13CD-42A2-ACF3-F2C7BC0CA612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiValue", "AsciiValue\AsciiValue.csproj", "{FC161AE9-C1BF-4DDD-A2EB-92D4B8E523FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{7C119A0B-6461-4E56-A3B6-A29EAE43D6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5F8C90-13CD-42A2-ACF3-F2C7BC0CA612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5F8C90-13CD-42A2-ACF3-F2C7BC0CA612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5F8C90-13CD-42A2-ACF3-F2C7BC0CA612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5F8C90-13CD-42A2-ACF3-F2C7BC0CA612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC161AE9-C1BF-4DDD-A2EB-92D4B8E523FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC161AE9-C1BF-4DDD-A2EB-92D4B8E523FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC161AE9-C1BF-4DDD-A2EB-92D4B8E523FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC161AE9-C1BF-4DDD-A2EB-92D4B8E523FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C119A0B-6461-4E56-A3B6-A29EAE43D6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C119A0B-6461-4E56-A3B6-A29EAE43D6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C119A0B-6461-4E56-A3B6-A29EAE43D6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C119A0B-6461-4E56-A3B6-A29EAE43D6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
