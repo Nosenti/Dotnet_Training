@@ -1,5 +1,4 @@
 ﻿using System;
-
 public class BiggestNumber
 {
 	public static void Main(string[] args)

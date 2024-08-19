@@ -1,0 +1,15 @@
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\bin\Debug\net8.0\SumOfAllIntegersWithinRange.exe
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\bin\Debug\net8.0\SumOfAllIntegersWithinRange.deps.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\bin\Debug\net8.0\SumOfAllIntegersWithinRange.runtimeconfig.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\bin\Debug\net8.0\SumOfAllIntegersWithinRange.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\bin\Debug\net8.0\SumOfAllIntegersWithinRange.pdb
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.AssemblyInfoInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.AssemblyInfo.cs
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.csproj.CoreCompileInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.sourcelink.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\refint\SumOfAllIntegersWithinRange.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.pdb
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\SumOfAllIntegersWithinRange.genruntimeconfig.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\SumOfAllIntegersWithinRange\obj\Debug\net8.0\ref\SumOfAllIntegersWithinRange.dll

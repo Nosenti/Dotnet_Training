@@ -1,0 +1,15 @@
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.AssemblyInfoInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.AssemblyInfo.cs
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.csproj.CoreCompileInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.sourcelink.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\bin\Debug\net8.0\Misc.exe
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\bin\Debug\net8.0\Misc.deps.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\bin\Debug\net8.0\Misc.runtimeconfig.json
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\bin\Debug\net8.0\Misc.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\bin\Debug\net8.0\Misc.pdb
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\refint\Misc.dll
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.pdb
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\Misc.genruntimeconfig.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\Misc\obj\Debug\net8.0\ref\Misc.dll

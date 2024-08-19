@@ -1,0 +1,5 @@
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\BiggestInteger\obj\Debug\net8.0\BiggestInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\BiggestInteger\obj\Debug\net8.0\BiggestInteger.AssemblyInfoInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\BiggestInteger\obj\Debug\net8.0\BiggestInteger.AssemblyInfo.cs
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\BiggestInteger\obj\Debug\net8.0\BiggestInteger.csproj.CoreCompileInputs.cache
+C:\Users\inno1\Desktop\Programming\Playground\dotnet\BiggestInteger\obj\Debug\net8.0\BiggestInteger.sourcelink.json
