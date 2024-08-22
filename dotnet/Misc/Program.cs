@@ -14,7 +14,7 @@ class Cat : Animal
 {
 	string Breed { get; set; }
 }
-public class Program
+class Program
 {
 	public static void Main(string[] args)
 	{
@@ -26,9 +26,6 @@ public class Program
 
 		Action<Animal> animalAction = (a) => Console.WriteLine(a.ScientificName);
 		Action<Cat> catAction = animalAction;
-
-		Action<Cat> catAction1 = (c) => Console.WriteLine(c.Breed);
-		Action<Animal> animalAction1 = catAction1;
 
 	}
 }
